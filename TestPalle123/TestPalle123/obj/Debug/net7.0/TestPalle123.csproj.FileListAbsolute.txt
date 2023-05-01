@@ -1,0 +1,15 @@
+C:\Users\Tec\source\repos\TestPalle123\TestPalle123\bin\Debug\net7.0\TestPalle123.exe
+C:\Users\Tec\source\repos\TestPalle123\TestPalle123\bin\Debug\net7.0\TestPalle123.deps.json
+C:\Users\Tec\source\repos\TestPalle123\TestPalle123\bin\Debug\net7.0\TestPalle123.runtimeconfig.json
+C:\Users\Tec\source\repos\TestPalle123\TestPalle123\bin\Debug\net7.0\TestPalle123.dll
+C:\Users\Tec\source\repos\TestPalle123\TestPalle123\bin\Debug\net7.0\TestPalle123.pdb
+C:\Users\Tec\source\repos\TestPalle123\TestPalle123\obj\Debug\net7.0\TestPalle123.csproj.AssemblyReference.cache
+C:\Users\Tec\source\repos\TestPalle123\TestPalle123\obj\Debug\net7.0\TestPalle123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tec\source\repos\TestPalle123\TestPalle123\obj\Debug\net7.0\TestPalle123.AssemblyInfoInputs.cache
+C:\Users\Tec\source\repos\TestPalle123\TestPalle123\obj\Debug\net7.0\TestPalle123.AssemblyInfo.cs
+C:\Users\Tec\source\repos\TestPalle123\TestPalle123\obj\Debug\net7.0\TestPalle123.csproj.CoreCompileInputs.cache
+C:\Users\Tec\source\repos\TestPalle123\TestPalle123\obj\Debug\net7.0\TestPalle123.dll
+C:\Users\Tec\source\repos\TestPalle123\TestPalle123\obj\Debug\net7.0\refint\TestPalle123.dll
+C:\Users\Tec\source\repos\TestPalle123\TestPalle123\obj\Debug\net7.0\TestPalle123.pdb
+C:\Users\Tec\source\repos\TestPalle123\TestPalle123\obj\Debug\net7.0\TestPalle123.genruntimeconfig.cache
+C:\Users\Tec\source\repos\TestPalle123\TestPalle123\obj\Debug\net7.0\ref\TestPalle123.dll
